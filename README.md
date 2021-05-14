@@ -1,5 +1,5 @@
 # (김동현) 파이썬 공부하기
-## 05.13
+## 05.13(python01.ipynb)
 + 입력 : input() => 정수(int), 실수(float) 입력할 때 형 변환하기
 + 출력 : print() => f.string
 + if문
